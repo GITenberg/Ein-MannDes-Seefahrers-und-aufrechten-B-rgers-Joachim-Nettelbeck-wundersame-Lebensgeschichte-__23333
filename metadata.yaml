@@ -1,0 +1,36 @@
+_repo: Ein-MannDes-Seefahrers-und-aufrechten-B-rgers-Joachim-Nettelbeck-wundersame-Lebensgeschichte-__23333
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nettelbeck, Joachim
+    birthdate: 1738
+    deathdate: 1824
+    gutenberg_agent_id: '25805'
+    url: http://www.gutenberg.org/2009/agents/25805
+    wikipedia: http://de.wikipedia.org/wiki/Joachim_Nettelbeck
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23333'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Seafaring life'
+- !lcc 'DD'
+- !lcc 'CT'
+- !lcsh 'Nettelbeck, Joachim Christian, 1738-1824'
+- !lcsh 'Slave trade -- Africa'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Germany -- Prussia'
+title: 'Ein Mann
+
+  Des Seefahrers und aufrechten Bürgers Joachim Nettelbeck wundersame Lebensgeschichte
+  von ihm selbst erzählt'
+url: http://www.gutenberg.org/ebooks/23333
